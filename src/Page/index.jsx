@@ -16,6 +16,7 @@ const Page = () => {
           cards={[
             {
               title: "Review Scope",
+              desc: "Review #390.",
               tags: [{ text: "Due 4/11s", color: "bg-pink-200" }],
             },
             {
