@@ -101,30 +101,6 @@ const Page = () => {
             },
           ]}
         />
-
-        {/* <Lane
-          nama="Last Week"
-          warna="bg-blue-200"
-          cards={[
-            {
-              title: "Judul Kartu 1",
-              desc: "Deskripsi ini cukup panjang bisa di kurangin ga?",
-              avatarIds: [1, 2],
-              tags: [
-                { text: "Tag1", color: "bg-pink-200" },
-                { text: "Tag2", color: "bg-pink-200" },
-                { text: "Tag2", color: "bg-pink-200" },
-                { text: "Tag2", color: "bg-pink-200" },
-                { text: "Tag2", color: "bg-pink-200" },
-                { text: "Tag2", color: "bg-pink-200" },
-              ],
-              tasks: [
-                { task: "Appan tugasmu", initialState: true },
-                { task: "task kedua saya", initialState: false },
-              ],
-            },
-          ]}
-        /> */}
       </div>
     </div>
   );

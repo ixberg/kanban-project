@@ -17,7 +17,7 @@ const Label = ({ color, text }) => {
           type="text"
           value={labelText}
           onChange={handleChange}
-          className="text-gray-800 border-none focus:outline-none bg-transparent text-center font-normal block"
+          className="text-gray-800 border-none focus:outline-none bg-transparent text-center font-normal block min-w-1"
           style={{
             width: `${labelText.length}ch`,
             maxWidth: "100%",
